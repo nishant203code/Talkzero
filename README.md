@@ -207,3 +207,6 @@ This project was a significant milestone during my internship at CDAC Noida. I g
 - [Spring Security Reference](https://docs.spring.io/spring-security/reference/index.html)
 - [WebSocket Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#websocket)
 - [Thymeleaf Documentation](https://www.thymeleaf.org/documentation.html)
+
+## License
+This project is licensed under the MIT License.
