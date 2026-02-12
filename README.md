@@ -1,10 +1,10 @@
 # ChatZero - Real-time Chat Application
 
-![ChatZero Logo] (https://github.com/nishant203code/CHATZERO-MAIN/blob/main/src/main/resources/static/ChatZeroLogo.png)
+![ChatZero Logo](src/main/resources/static/ChatZeroLogo.png)
 
 ## Overview
 
-ChatZero is a real-time chat application built with Spring Boot that enables secure user authentication, friend management, and instant messaging. This project was developed during my internship at CDAC Noida as my first major project. Through this project, I learned about socket programming, the Spring Framework, Spring Boot, and much more.
+ChatZero is a real-time chat application built with Spring Boot that enables secure user authentication, friend management, and instant messaging. Through this project, I learned about socket programming, the Spring Framework, Spring Boot, and much more.
 
 ## 🚀 Features
 
