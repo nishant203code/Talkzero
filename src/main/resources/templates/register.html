@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Register – ChatZero</title>
+  <title>Register – Talkzero</title>
   <link rel="stylesheet" th:href="@{/css/style.css}">
   <script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
@@ -11,12 +11,12 @@
   <div class="wrapper">
 	<!--
     <div class="logo">
-      <img th:src="@{/ChatZeroLogo.jpg}" alt="ChatZero Logo">
+      <img th:src="@{/TalkzeroLogo.jpg}" alt="Talkzero Logo">
     </div>
 	-->
     
     <form th:action="@{/register}" method="post" th:object="${user}" id="registerForm" onsubmit="return validateCaptcha('register')">
-      <h2>Join ChatZero</h2>
+      <h2>Join Talkzero</h2>
       
       <div class="input-field">
         <input th:field="*{username}" placeholder="" required>

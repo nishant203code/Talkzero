@@ -1,10 +1,10 @@
-# ChatZero - Real-time Chat Application
+# Talkzero: Real-time Chat Application
 
-![ChatZero Logo](src/main/resources/static/ChatZeroLogo.png)
+![Talkzero Logo](src/main/resources/static/TalkzeroLogo.png)
 
 ## Overview
 
-ChatZero is a real-time chat application built with Spring Boot that enables secure user authentication, friend management, and instant messaging. Through this project, I learned about socket programming, the Spring Framework, Spring Boot, and much more.
+Talkzero is a real-time chat application built with Spring Boot that enables secure user authentication, friend management, and instant messaging. Through this project, I learned about socket programming, the Spring Framework, Spring Boot, and much more.
 
 ## 🚀 Features
 
@@ -47,7 +47,7 @@ ChatZero is a real-time chat application built with Spring Boot that enables sec
 ## 📂 Project Structure
 
 ```
-chatv2/chat/
+Talkzero
 ├── src/
 │   ├── main/
 │   │   ├── java/com/chat/          # Java source code
