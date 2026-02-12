@@ -113,8 +113,7 @@ chatv2/chat/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/nishant203code/CHATZERO-MAIN.git
-   cd ChatAppJava/chatv2/chat
+   git clone https://github.com/nishant203code/Talkzero.git
    ```
 
 2. **Build the project:**
